@@ -1,0 +1,15 @@
+C:\Users\adrya\Documents\DesafioTecnico\bin\Debug\net7.0\DesafioTecnico.exe
+C:\Users\adrya\Documents\DesafioTecnico\bin\Debug\net7.0\DesafioTecnico.deps.json
+C:\Users\adrya\Documents\DesafioTecnico\bin\Debug\net7.0\DesafioTecnico.runtimeconfig.json
+C:\Users\adrya\Documents\DesafioTecnico\bin\Debug\net7.0\DesafioTecnico.dll
+C:\Users\adrya\Documents\DesafioTecnico\bin\Debug\net7.0\DesafioTecnico.pdb
+C:\Users\adrya\Documents\DesafioTecnico\obj\Debug\net7.0\DesafioTecnico.csproj.AssemblyReference.cache
+C:\Users\adrya\Documents\DesafioTecnico\obj\Debug\net7.0\DesafioTecnico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrya\Documents\DesafioTecnico\obj\Debug\net7.0\DesafioTecnico.AssemblyInfoInputs.cache
+C:\Users\adrya\Documents\DesafioTecnico\obj\Debug\net7.0\DesafioTecnico.AssemblyInfo.cs
+C:\Users\adrya\Documents\DesafioTecnico\obj\Debug\net7.0\DesafioTecnico.csproj.CoreCompileInputs.cache
+C:\Users\adrya\Documents\DesafioTecnico\obj\Debug\net7.0\DesafioTecnico.dll
+C:\Users\adrya\Documents\DesafioTecnico\obj\Debug\net7.0\refint\DesafioTecnico.dll
+C:\Users\adrya\Documents\DesafioTecnico\obj\Debug\net7.0\DesafioTecnico.pdb
+C:\Users\adrya\Documents\DesafioTecnico\obj\Debug\net7.0\DesafioTecnico.genruntimeconfig.cache
+C:\Users\adrya\Documents\DesafioTecnico\obj\Debug\net7.0\ref\DesafioTecnico.dll
